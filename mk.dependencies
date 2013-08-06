@@ -1,10 +1,10 @@
 [
   {
-    "repository": "MoKee/android_kernel_samsung_jf",
+    "repository": "android_kernel_samsung_jf",
     "target_path": "kernel/samsung/jf"
   },
   {
-    "repository": "MoKee/android_vendor_samsung_jfltexx",
+    "repository": "android_vendor_samsung_jfltexx",
     "target_path": "vendor/samsung/jfltexx"
   }
 ]
