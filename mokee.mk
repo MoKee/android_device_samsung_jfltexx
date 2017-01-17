@@ -14,3 +14,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 PRODUCT_DEVICE := jfltexx
 PRODUCT_NAME := mk_jfltexx
+
