@@ -2,5 +2,9 @@
   {
     "repository": "android_device_samsung_jf-common",
     "target_path": "device/samsung/jf-common"
+  },
+  {
+    "repository": "android_vendor_samsung_jfltexx",
+    "target_path": "vendor/samsung/jfltexx"
   }
 ]
